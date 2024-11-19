@@ -1,6 +1,6 @@
 # Automatisierte Rechnungserstellung für Wix
 
-## Projektbeschreibung (Deutsch)
+### Projektbeschreibung
 Dieses Projekt wurde gemeinsam mit **Albert Kaminski** entwickelt, um die Einschränkungen der Wix-Plattform zu umgehen, die keine automatisierte Rechnungserstellung bietet. Es handelt sich um einen Service, der Rechnungsdaten von Kunden über eine REST-API empfängt, diese verarbeitet und automatisch eine eigene Rechnung erstellt. Die Rechnung wird im PDF-Format generiert und anschließend per E-Mail an den Käufer gesendet.
 
 ### Features
@@ -18,7 +18,11 @@ Dieses Projekt wurde als eigenständige Lösung entwickelt, um die Automatisieru
 
 ---
 
-## Project Description (English)
+### English
+
+# Automated Invoice Generation for Wix
+
+### Project Description
 This project was developed together with **Albert Kaminski** to overcome the limitations of the Wix platform, which does not provide automated invoice generation. It is a service that receives invoice data from customers via a REST API, processes the data, and automatically generates a custom invoice. The invoice is created as a PDF file and sent to the buyer via email.
 
 ### Features
